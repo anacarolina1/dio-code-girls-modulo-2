@@ -1,4 +1,4 @@
-package dio.basecamp;
+package dio.basecamp.vto;
 
 public class Main {
 	
