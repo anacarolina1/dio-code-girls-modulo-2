@@ -1,4 +1,4 @@
-package dio.criar.metodos;
+package dio.criarmetodos;
 
 public class Calculadora {
 	
